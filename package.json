@@ -1,0 +1,10 @@
+{
+  "name": "paper-dialog-behavior",
+  "version": "1.2.10",
+  "dependencies": {
+    "polymer": "github:CENTURY-Tech/polymer#v1.12.1",
+    "iron-overlay-behavior": "github:CENTURY-Tech/iron-overlay-behavior#v1.10.5",
+    "paper-styles": "github:CENTURY-Tech/paper-styles#v1.3.2"
+  },
+  "private": true
+}
